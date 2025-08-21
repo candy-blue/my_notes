@@ -4380,3 +4380,4 @@
 /node_modules/zwitch/package.json
 /node_modules/zwitch/readme.md
 /node_modules/.package-lock.json
+/docs/.vitepress/dist/
